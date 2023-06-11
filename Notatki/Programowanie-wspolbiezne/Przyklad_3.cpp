@@ -1,5 +1,5 @@
 /**
- * Programowanie II R
+ * Programowanie i metody numeryczne
  *
  * Programowanie współbieżne - przykład 3.
  *
